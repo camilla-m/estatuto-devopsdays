@@ -1,36 +1,34 @@
-Estatuto da Associação Python Brasil
+Estatuto da Associação DevOpsDays Brasil
 ====================================
 
 Capítulo I - Da Associação
 --------------------------
 
-Art. 1º - A Associação Python Brasil, fundada em 22 de junho de 2007, é uma
+Art. 1º - A Associação DevOpsDays Brasil, fundada em xx de xx de xx, é uma
 associação civil de direito privado, sem fins lucrativos, que se regerá pelos
-presentes estatutos, com sede e foro na cidade de Caxias do Sul, RS, podendo,
+presentes estatutos, com sede e foro na cidade de xx, xx, podendo,
 estabelecer delegações em quaisquer cidades do território nacional.
 
- § primeiro: a Associação Python Brasil terá sede na Rua Andréa Viero 215,
- Bairro Marechal Floriano, Caxias do Sul, RS, CEP 95013-060.
+ § primeiro: a Associação DevOpsDays Brasil terá sede na xxxxxx.
 
- § segundo: o prazo de duração da Associação Python Brasil é por tempo
+ § segundo: o prazo de duração da Associação DevOpsDays Brasil é por tempo
  indeterminado.
 
-Art. 2º - A Associação Python Brasil tem por finalidade apoiar as
-comunidades de usuários e desenvolvedores da linguagem Python e suas
-aplicações, no Brasil, através da consecução dos seguintes objetivos:
+Art. 2º - A Associação DevOpsDays Brasil tem por finalidade apoiar as
+comunidades de usuários e desenvolvedores da metologia DevOps, no Brasil, através da consecução dos seguintes objetivos:
 
 a. organizar eventos, seminários, palestras e atividades educacionais para
-   disseminar o conhecimento sobre Python e suas aplicações;
-b. fomentar a utilização da linguagem e suas aplicações em instituições de
+   disseminar o conhecimento sobre DevOps e suas aplicações;
+b. fomentar a utilização da metodologia e suas aplicações em instituições de
    ensino e organizações privadas, governamentais e de economia mista;
 c. manter bases de conhecimento, listas de discussão e sites colaborativos para
    a comunidade de usuários e desenvolvedores;
 d. coordenar esforços de promoção e marketing;
 e. divulgar casos de sucesso;
-f. assegurar a proteção e o bom uso das marcas relacionadas à linguagem Python
+f. assegurar a proteção e o bom uso das marcas relacionadas à metodologia DevOps
    e suas aplicações.
 
- § único: no cumprimento de suas finalidades, a Associação Python Brasil poderá
+ § único: no cumprimento de suas finalidades, a Associação DevOpsDays Brasil poderá
  firmar contratos e/ou convênios com entidades financiadoras de projetos,
  nacionais ou estrangeiras, de direito público ou privado, destinando os
  recursos exclusivamente para a manutenção e desenvolvimento de seus objetivos.
@@ -41,7 +39,7 @@ Capítulo II - Dos Associados
 
 Art. 3º - A Associação será constituída por número ilimitado de associados,
 pessoas físicas ou jurídicas, sem distinção de nacionalidade ou qualquer outra
-natureza, desde que concordem com os objetivos da Associação Python Brasil,
+natureza, desde que concordem com os objetivos da Associação DevOpsDays Brasil,
 desejem contribuir para que os mesmos sejam alcançados, aceitem e cumpram as
 condições estabelecidas no Estatuto e sejam aprovados de acordo com a norma
 específica.
@@ -72,11 +70,10 @@ d. Honorários.
  Deliberativo.
 
  § quarto: são Associados Honorários as pessoas físicas ou jurídicas que,
- por contribuírem para a consecução dos objetivos da Associação Python
- Brasil, recebam tal designação do Conselho Deliberativo, ouvida a
+ por contribuírem para a consecução dos objetivos da Associação DevOpsDays Brasil, recebam tal designação do Conselho Deliberativo, ouvida a
  Diretoria.
 
-Art. 5º - É direito de todos os Associados pessoas físicas serem informados de atividades apoiadas ou organizadas pela Associação Python Brasil e de outros benefícios que venham a ser criados.
+Art. 5º - É direito de todos os Associados pessoas físicas serem informados de atividades apoiadas ou organizadas pela Associação DevOpsDays Brasil e de outros benefícios que venham a ser criados.
 
  § único: São direitos exclusivos dos Associados Plenos e Associados
  Efetivos: votar as deliberações propostas em Assembléia Geral, votar e ser
@@ -85,7 +82,7 @@ Art. 5º - É direito de todos os Associados pessoas físicas serem informados d
 Art. 6º - São deveres de todos os Associados: contribuir regularmente, na forma
 e periodicidade fixadas; cumprir os preceitos deste estatuto, bem como os
 Programas e Regulamentos que forem adotados; colaborar para que a Associação
-Python Brasil atinja seus objetivos e zelar pelo seu bom nome e
+DevOpsDays Brasil atinja seus objetivos e zelar pelo seu bom nome e
 desenvolvimento.
 
  § primeiro: Somente os Associados que estiverem quites com a taxa de
@@ -94,13 +91,13 @@ desenvolvimento.
  suspensos, sendo restituídos após a regularização dos pagamentos, na forma
  indicada pela Diretoria.
 
- § segundo: As contribuições à Associação Python Brasil poderão ser em
+ § segundo: As contribuições à Associação DevOpsDays Brasil poderão ser em
  espécie, bens ou serviços prestados, na forma e periodicidade indicadas
  pela Diretoria e aprovadas pelo Conselho Deliberativo.
 
 Art. 7º - Qualquer associado pode ser advertido, suspenso, e até excluído por
 atos ou omissões, pelo não-exercício de suas funções estatutárias ou por
-desrespeito aos objetivos fundamentais da Associação Python Brasil, mediante
+desrespeito aos objetivos fundamentais da Associação DevOpsDays Brasil, mediante
 proposta da Diretoria ou de um grupo de associados ao Conselho Deliberativo. Os
 membros faltosos bem como os demais membros da Assembléia serão comunicados por
 escrito, incluindo meios eletrônicos, através de advertência. Os membros
@@ -116,7 +113,7 @@ Art. 8º - É direito do associado demitir-se do quadro social, quando julgar
 necessário, protocolando seu pedido junto à secretária da Associação Python
 Brasil, desde que não esteja em débito com suas obrigações associativas.
 
-Art. 9º - Os órgãos de direção da Associação Python Brasil são:
+Art. 9º - Os órgãos de direção da Associação DevOpsDays Brasil são:
 
 a. Assembléia Geral;
 b. Conselho Deliberativo;
@@ -173,7 +170,7 @@ d. é permitido o voto por procuração, limitado a uma procuração por membro
    presente.
 
  § único: os membros da mesa da Assembléia Geral poderão integrar outros órgãos
- da direção da Associação Python Brasil.
+ da direção da Associação DevOpsDays Brasil.
 
 
 Capítulo IV - Do Conselho Deliberativo
@@ -196,7 +193,7 @@ disposição abaixo, Capítulo VIII, "Das eleições".
 
  § terceiro: o Conselho Deliberativo será convocado por seu Presidente, por
  convocação direta de um de seus membros ou pela Diretoria da Associação
- Python Brasil, com um mínimo de 7 (sete) dias de antecedência, através de
+ DevOpsDays Brasil, com um mínimo de 7 (sete) dias de antecedência, através de
  telegrama, comunicação eletrônica ou pessoal. O quorum para deliberações é de
  3 (três) conselheiros em primeira convocação ou 2 (dois) conselheiros em
  segunda convocação, 30 (trinta) minutos depois, quando podem assumir os
@@ -259,12 +256,12 @@ Presidente em suas ausências e impedimentos.
 
 Art. 21º - Compete ao Diretor de Tecnologia administrar, executar e coordenar
 as atividades relacionadas aos recursos tecnológicos necessários para dar
-suporte às atividades da Associação Python Brasil;
+suporte às atividades da Associação DevOpsDays Brasil;
 
 Art. 22º - Compete ao Diretor de Marketing coordenar as atividades de promoção
-e divulgação da Linguagem Python e tecnologias relacionadas bem como da
-Associação Python Brasil. Compete ao Diretor de Marketing escolher e apoiar a
-organização de eventos que promovam a Linguagem Python e tecnologias
+e divulgação da Metodologia DevOps e tecnologias relacionadas bem como da
+Associação DevOpsDays Brasil. Compete ao Diretor de Marketing escolher e apoiar a
+organização de eventos que promovam a Metodologia DevOps e tecnologias
 relacionadas.
 
 Art. 23º - Os documentos contábeis necessitarão da assinatura do Diretor
@@ -317,7 +314,7 @@ Capítulo VII - Do Conselho Consultivo
 
 Art. 29º - O Conselho Consultivo será composto por pessoas com notório saber em
 Ciência da Computação ou Engenharia de Software, ou histórico de contribuições
-relevantes ao aperfeiçoamento, aplicação e divulgação da linguagem Python ou
+relevantes ao aperfeiçoamento, aplicação e divulgação da Metodologia DevOps ou
 produtos desenvolvidos com ela.
 
  § único: o mandato de cada membro do Conselho Consultivo poderá ser renovado a
@@ -329,10 +326,10 @@ qualquer Associado Efetivo ou Pleno ao Conselho Deliberativo.
 
 Art. 31º - Compete ao Conselho Consultivo:
 
-a. acompanhar a evolução da linguagem Python e suas aplicações no mercado e no
+a. acompanhar a evolução da Metodologia DevOps e suas aplicações no mercado e no
    meio acadêmico;
 b. elaborar pareceres, estudos e projetos a pedido do Conselho Deliberativo;
-c. propor ações para que a Associação Python Brasil continue, em longo prazo,
+c. propor ações para que a Associação DevOpsDays Brasil continue, em longo prazo,
    cumprindo os objetivos delineados no Capítulo I deste estatuto.
 
 
@@ -379,7 +376,7 @@ indivíduos.
  § segundo: em caso de empate nas votações para o Conselho Deliberativo ou o
  Conselho Fiscal, terá prioridade o candidato que seja Associado Pleno ou
  Efetivo pelo período ininterrupto mais longo, como comprovado pelos registros
- da Associação Python Brasil. Na persistência do empate, submeter-se-ão os
+ da Associação DevOpsDays Brasil. Na persistência do empate, submeter-se-ão os
  candidatos empatados à nova votação.
 
 
@@ -407,7 +404,7 @@ convocação, um dia depois.
  no Conselho Nacional de Serviço Social, conforme Assembléia Geral
  Extraordinária de dissolução.
 
-Art. 38º - As receitas da Associação Python Brasil são basicamente,
+Art. 38º - As receitas da Associação DevOpsDays Brasil são basicamente,
 constituídas por:
 
 a. contribuições dos associados;
@@ -439,10 +436,10 @@ Art. 43º - Durante a Assembléia de Fundação serão eleitos uma Diretoria, 9
 seguintes mandatos reduzidos:
 
 a. Diretoria e Conselho Fiscal: mandato até a Assembléia Geral prevista para
-   agosto de 2007;
+   xxxxx de xxxxxxxxx;
 b. Conselho Deliberativo: 1/3 (um terço) com mandato até a Assembléia Geral
-   prevista para agosto de 2007, e 2/3 (dois terços) com mandato até a
-   Assembléia Geral prevista para o segundo semestre de 2008. Os eleitos melhor
+   prevista para xxxxx de xxxxxxx, e 2/3 (dois terços) com mandato até a
+   Assembléia Geral prevista para o segundo semestre de xxxxxxxx. Os eleitos melhor
    classificados na lista de votação terão o mandato mais longo.
 
 Art. 44º - Excepcionalmente, durante a primeira Assembléia Geral que ocorrer um
