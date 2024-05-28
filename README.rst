@@ -1,20 +1,20 @@
-Estatuto da Associação DevOpsDays Brasil
+Estatuto da Associação DevOps Brasil
 ====================================
 
 Capítulo I - Da Associação
 --------------------------
 
-Art. 1º - A Associação DevOpsDays Brasil, fundada em xx de xx de xx, é uma
+Art. 1º - A Associação DevOps Brasil, fundada em xx de xx de xx, é uma
 associação civil de direito privado, sem fins lucrativos, que se regerá pelos
 presentes estatutos, com sede e foro na cidade de xx, xx, podendo,
 estabelecer delegações em quaisquer cidades do território nacional.
 
- § primeiro: a Associação DevOpsDays Brasil terá sede na xxxxxx.
+ § primeiro: a Associação DevOps Brasil terá sede na xxxxxx.
 
- § segundo: o prazo de duração da Associação DevOpsDays Brasil é por tempo
+ § segundo: o prazo de duração da Associação DevOps Brasil é por tempo
  indeterminado.
 
-Art. 2º - A Associação DevOpsDays Brasil tem por finalidade apoiar as
+Art. 2º - A Associação DevOps Brasil tem por finalidade apoiar as
 comunidades de usuários e desenvolvedores da metologia DevOps, no Brasil, através da consecução dos seguintes objetivos:
 
 a. organizar eventos, seminários, palestras e atividades educacionais para
@@ -28,7 +28,7 @@ e. divulgar casos de sucesso;
 f. assegurar a proteção e o bom uso das marcas relacionadas à metodologia DevOps
    e suas aplicações.
 
- § único: no cumprimento de suas finalidades, a Associação DevOpsDays Brasil poderá
+ § único: no cumprimento de suas finalidades, a Associação DevOps Brasil poderá
  firmar contratos e/ou convênios com entidades financiadoras de projetos,
  nacionais ou estrangeiras, de direito público ou privado, destinando os
  recursos exclusivamente para a manutenção e desenvolvimento de seus objetivos.
@@ -38,11 +38,11 @@ Capítulo II - Dos Associados
 ----------------------------
 
 Art. 3º - A Associação será constituída por número ilimitado de associados,
-pessoas físicas ou jurídicas, sem distinção de nacionalidade ou qualquer outra
-natureza, desde que concordem com os objetivos da Associação DevOpsDays Brasil,
+apenas para pessoas físicas, sem distinção de nacionalidade ou qualquer outra
+natureza, desde que concordem com os objetivos da Associação DevOps Brasil,
 desejem contribuir para que os mesmos sejam alcançados, aceitem e cumpram as
-condições estabelecidas no Estatuto e sejam aprovados de acordo com a norma
-específica.
+condições estabelecidas no Estatuto, sejam aprovados de acordo com a norma
+específica e não sejam vetados conforme informado no capítulo IX.
 
 Art. 4º - As categorias de Associados são:
 
@@ -69,20 +69,18 @@ d. Honorários.
  contribuições, na forma indicada pela Diretoria e fixada pelo Conselho
  Deliberativo.
 
- § quarto: são Associados Honorários as pessoas físicas ou jurídicas que,
- por contribuírem para a consecução dos objetivos da Associação DevOpsDays Brasil, recebam tal designação do Conselho Deliberativo, ouvida a
+ § quarto: são Associados Honorários as pessoas físicas que,
+ por contribuírem para a consecução dos objetivos da Associação DevOps Brasil, recebam tal designação do Conselho Deliberativo, ouvida a
  Diretoria.
 
-Art. 5º - É direito de todos os Associados pessoas físicas serem informados de atividades apoiadas ou organizadas pela Associação DevOpsDays Brasil e de outros benefícios que venham a ser criados.
+Art. 5º - É direito de todos os Associados pessoas físicas o direito a voto e serem informados de atividades apoiadas ou organizadas pela Associação DevOps Brasil e de outros benefícios que venham a ser criados.
 
- § único: São direitos exclusivos dos Associados Plenos e Associados
- Efetivos: votar as deliberações propostas em Assembléia Geral, votar e ser
- votado para a Diretoria, Conselho Deliberativo e Conselho Fiscal.
+ § único: São direitos exclusivos dos Associados Plenos: compor chapa para a Diretoria, Conselho Deliberativo e Conselho Fiscal.
 
 Art. 6º - São deveres de todos os Associados: contribuir regularmente, na forma
 e periodicidade fixadas; cumprir os preceitos deste estatuto, bem como os
 Programas e Regulamentos que forem adotados; colaborar para que a Associação
-DevOpsDays Brasil atinja seus objetivos e zelar pelo seu bom nome e
+DevOps Brasil atinja seus objetivos e zelar pelo seu bom nome e
 desenvolvimento.
 
  § primeiro: Somente os Associados que estiverem quites com a taxa de
@@ -91,13 +89,13 @@ desenvolvimento.
  suspensos, sendo restituídos após a regularização dos pagamentos, na forma
  indicada pela Diretoria.
 
- § segundo: As contribuições à Associação DevOpsDays Brasil poderão ser em
+ § segundo: As contribuições à Associação DevOps Brasil poderão ser em
  espécie, bens ou serviços prestados, na forma e periodicidade indicadas
  pela Diretoria e aprovadas pelo Conselho Deliberativo.
 
 Art. 7º - Qualquer associado pode ser advertido, suspenso, e até excluído por
 atos ou omissões, pelo não-exercício de suas funções estatutárias ou por
-desrespeito aos objetivos fundamentais da Associação DevOpsDays Brasil, mediante
+desrespeito aos objetivos fundamentais da Associação DevOps Brasil, mediante
 proposta da Diretoria ou de um grupo de associados ao Conselho Deliberativo. Os
 membros faltosos bem como os demais membros da Assembléia serão comunicados por
 escrito, incluindo meios eletrônicos, através de advertência. Os membros
@@ -110,10 +108,10 @@ Assembléia Geral.
  Conselho Deliberativo e da Assembléia Geral.
 
 Art. 8º - É direito do associado demitir-se do quadro social, quando julgar
-necessário, protocolando seu pedido junto à secretária da Associação Python
+necessário, protocolando seu pedido junto à secretária da Associação DevOps
 Brasil, desde que não esteja em débito com suas obrigações associativas.
 
-Art. 9º - Os órgãos de direção da Associação DevOpsDays Brasil são:
+Art. 9º - Os órgãos de direção da Associação DevOps Brasil são:
 
 a. Assembléia Geral;
 b. Conselho Deliberativo;
@@ -125,8 +123,7 @@ e. Conselho Consultivo.
 Capítulo III - Da Assembléia
 ----------------------------
 
-Art. 10º - A Assembléia Geral é a reunião dos Associados Plenos e Efetivos, com
-direito a voto e em dia com as suas contribuições. É o principal órgão de poder
+Art. 10º - A Assembléia Geral é a reunião de todos os associados que estão em dia com as suas contribuições. É o principal órgão de poder
 e deliberação da Associação.
 
  § único: a convocação para a Assembléia Geral far-se-á com a antecedência
@@ -147,7 +144,7 @@ Conselho Deliberativo, e eleger, quando couber, uma nova Diretoria e membros do
 Conselho Deliberativo, conforme dispõem os termos do Estatuto;
 extraordinariamente, para fins especiais e expressos, sempre que convocada pelo
 Conselho Deliberativo, pela Diretoria ou por 1/5 (um quinto) dos Associados
-Plenos e Efetivos em gozo dos seus direitos.
+em gozo dos seus direitos.
 
  § primeiro: a Assembléia Geral elegerá dentre os seus membros uma Mesa
  constituída por um presidente, um primeiro e um segundo secretários.
@@ -170,7 +167,7 @@ d. é permitido o voto por procuração, limitado a uma procuração por membro
    presente.
 
  § único: os membros da mesa da Assembléia Geral poderão integrar outros órgãos
- da direção da Associação DevOpsDays Brasil.
+ da direção da Associação DevOps Brasil.
 
 
 Capítulo IV - Do Conselho Deliberativo
@@ -178,7 +175,7 @@ Capítulo IV - Do Conselho Deliberativo
 
 Art. 14º - O Conselho Deliberativo será constituído por 3 (três) membros
 titulares e 1 (um) suplente, eleitos individualmente pela Assembléia Geral,
-sendo composto obrigatoriamente por Associados Plenos ou Efetivos, conforme
+sendo composto obrigatoriamente por Associados, conforme
 disposição abaixo, Capítulo VIII, "Das eleições".
 
  § primeiro: o mandato dos membros do Conselho Deliberativo será de 2 (dois) anos,
@@ -193,7 +190,7 @@ disposição abaixo, Capítulo VIII, "Das eleições".
 
  § terceiro: o Conselho Deliberativo será convocado por seu Presidente, por
  convocação direta de um de seus membros ou pela Diretoria da Associação
- DevOpsDays Brasil, com um mínimo de 7 (sete) dias de antecedência, através de
+ DevOps Brasil, com um mínimo de 7 (sete) dias de antecedência, através de
  telegrama, comunicação eletrônica ou pessoal. O quorum para deliberações é de
  3 (três) conselheiros em primeira convocação ou 2 (dois) conselheiros em
  segunda convocação, 30 (trinta) minutos depois, quando podem assumir os
@@ -226,7 +223,7 @@ h. solicitar pareceres e recomendar estudos e projetos ao Conselho Consultivo.
 Capítulo V - Da Diretoria
 -------------------------
 
-Art. 16º - A Diretoria é composta por 4 (quatro) Associados Plenos ou Efetivos
+Art. 16º - A Diretoria é composta por 4 (quatro) Associados Plenos
 eleitos pela Assembléia Geral para um mandato de 2 (dois) anos, iniciando no dia
 quinze de janeiro do ano seguinte a data da eleição, e finalizando dois anos após
 o início do mandato, em quatorze de janeiro.
@@ -256,11 +253,11 @@ Presidente em suas ausências e impedimentos.
 
 Art. 21º - Compete ao Diretor de Tecnologia administrar, executar e coordenar
 as atividades relacionadas aos recursos tecnológicos necessários para dar
-suporte às atividades da Associação DevOpsDays Brasil;
+suporte às atividades da Associação DevOps Brasil;
 
 Art. 22º - Compete ao Diretor de Marketing coordenar as atividades de promoção
 e divulgação da Metodologia DevOps e tecnologias relacionadas bem como da
-Associação DevOpsDays Brasil. Compete ao Diretor de Marketing escolher e apoiar a
+Associação DevOps Brasil. Compete ao Diretor de Marketing escolher e apoiar a
 organização de eventos que promovam a Metodologia DevOps e tecnologias
 relacionadas.
 
@@ -329,7 +326,7 @@ Art. 31º - Compete ao Conselho Consultivo:
 a. acompanhar a evolução da Metodologia DevOps e suas aplicações no mercado e no
    meio acadêmico;
 b. elaborar pareceres, estudos e projetos a pedido do Conselho Deliberativo;
-c. propor ações para que a Associação DevOpsDays Brasil continue, em longo prazo,
+c. propor ações para que a Associação DevOps Brasil continue, em longo prazo,
    cumprindo os objetivos delineados no Capítulo I deste estatuto.
 
 
@@ -376,19 +373,26 @@ indivíduos.
  § segundo: em caso de empate nas votações para o Conselho Deliberativo ou o
  Conselho Fiscal, terá prioridade o candidato que seja Associado Pleno ou
  Efetivo pelo período ininterrupto mais longo, como comprovado pelos registros
- da Associação DevOpsDays Brasil. Na persistência do empate, submeter-se-ão os
+ da Associação DevOps Brasil. Na persistência do empate, submeter-se-ão os
  candidatos empatados à nova votação.
+
+Capítulo IX - Do veto para novos associados
+---------------------------------------------------
+
+Art. 36º - Qualquer associado pode ter sua associação vetada caso 5 (cinco) ou mais membros plenos apresentem argumentos plausíveis sobre a pessoa que solicita a associação, em um prazo máximo de 30 (trinta) dias;
+
+§ único: no caso da ausência da ausencia de veto, a pessoa é aceita como associado na categoria que lhe cabe conforme as regras estabelecidas nesse estatuto;
 
 
 Capítulo IX - Das Disposições Gerais e Transitórias
 ---------------------------------------------------
 
-Art. 36º - Os associados não respondem solidária nem subsidiariamente pelas
+Art. 37º - Os associados não respondem solidária nem subsidiariamente pelas
 obrigações da Associação, assim como ela não é responsável por atos praticados
 ou por obrigações contraídas por seus membros, salvo quando por deliberação de
 seus órgãos de direção.
 
-Art. 37º - A dissolução da Associação, devidamente justificada, só poderá ser
+Art. 38º - A dissolução da Associação, devidamente justificada, só poderá ser
 deliberada em Assembléia Geral Extraordinária, especialmente convocada para
 esse fim pelo Conselho Deliberativo ou pela Diretoria, com um quorum de 2/3
 (dois terços) dos associados com direito a voto, em primeira convocação, e com
@@ -404,7 +408,7 @@ convocação, um dia depois.
  no Conselho Nacional de Serviço Social, conforme Assembléia Geral
  Extraordinária de dissolução.
 
-Art. 38º - As receitas da Associação DevOpsDays Brasil são basicamente,
+Art. 39º - As receitas da Associação DevOps Brasil são basicamente,
 constituídas por:
 
 a. contribuições dos associados;
@@ -417,20 +421,20 @@ g. receita proveniente de publicidade em seus veículos de comunicação;
 h. outros meios que a Diretoria venha a criar, com a aprovação do Conselho
    Deliberativo.
 
-Art. 39º - O exercício financeiro encerrar-se-á em 31 de dezembro de cada ano.
+Art. 40º - O exercício financeiro encerrar-se-á em 31 de dezembro de cada ano.
 
  § único: o relatório da Diretoria, o balanço anual e a documentação necessária
  devem ser apresentados pela Diretoria, em março de cada ano.
 
-Art. 40º - O exercício de cargos eleitos não será remunerado a qualquer título.
+Art. 41º - O exercício de cargos eleitos não será remunerado a qualquer título.
 
-Art. 41º - Os casos omissos ou contraditórios do estatuto serão dirimidos pelo
+Art. 42º - Os casos omissos ou contraditórios do estatuto serão dirimidos pelo
 Conselho Deliberativo.
 
-Art. 42º - A convocação dos órgãos deliberativos poderá ser feita por 1/5 (um
+Art. 43º - A convocação dos órgãos deliberativos poderá ser feita por 1/5 (um
 quinto) dos Associados com direito a voto.
 
-Art. 43º - Durante a Assembléia de Fundação serão eleitos uma Diretoria, 9
+Art. 44º - Durante a Assembléia de Fundação serão eleitos uma Diretoria, 9
 (nove) conselheiros e 3 (três) suplentes para o Conselho Deliberativo e 3
 (três) conselheiros e 2 (dois) suplentes para o Conselho Fiscal, com os
 seguintes mandatos reduzidos:
@@ -442,6 +446,6 @@ b. Conselho Deliberativo: 1/3 (um terço) com mandato até a Assembléia Geral
    Assembléia Geral prevista para o segundo semestre de xxxxxxxx. Os eleitos melhor
    classificados na lista de votação terão o mandato mais longo.
 
-Art. 44º - Excepcionalmente, durante a primeira Assembléia Geral que ocorrer um
+Art. 45º - Excepcionalmente, durante a primeira Assembléia Geral que ocorrer um
 ano após a Assembléia de Fundação, alterações neste estatuto poderão ser feitas
 por maioria simples dos votos dos presentes.
